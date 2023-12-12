@@ -1,0 +1,40 @@
+#heading{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;    
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.inBut{
+    display: flex;
+    width: full;
+}
+
+#black{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+#red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+#green{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+#blue{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
